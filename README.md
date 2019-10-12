@@ -1,5 +1,5 @@
 # The-Titanic-Disaster
-A solution to the titanic disaster using logistic regression
+This is a Solution to the titanic disaster using logistic regression
 
 The training Accuracy: 80%
 
